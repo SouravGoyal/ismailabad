@@ -1,0 +1,6 @@
+[
+    { "name": "John Doe", "occupation": "Carpenter", "shopName": "Doe's Carpentry", "shopAddress": "123 Main St, Anytown, USA", "contactNumber": "(123) 456-7890", "email": "johndoe@example.com" },
+    { "name": "Jane Smith", "occupation": "Florist", "shopName": "Smith's Florals", "shopAddress": "456 Elm St, Othertown, USA", "contactNumber": "(987) 654-3210", "email": "janesmith@example.com" },
+    { "name": "Joe Bloggs", "occupation": "Plumber", "shopName": "Bloggs Plumbing", "shopAddress": "789 Oak St, Anycity, USA", "contactNumber": "(456) 789-0123", "email": ""},
+    { "name": "Jill Brown", "occupation": "Electrician", "shopName": "Brown's Electrical", "shopAddress": "101 Pine St, Anywhere, USA", "contactNumber": "(321) 654-9870", "email": ""}
+]
